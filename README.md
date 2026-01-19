@@ -80,7 +80,7 @@ Este proyecto fue desarrollado por el equipo **Bugbusters** como parte del Proye
 | **Emmanuel Montiel** |  Fullstack | [@esaumonti-blip](https://github.com/esaumonti-blip) |
 | **José Evelio** | / | [@josesnowdev](https://github.com/josesnowdev) | 
 | **Mariana Carmona** | / | [@user](https://github.com/) |
-| **Andrea Meneses** |  / | [@user](https://github.com/) |
+| **Andrea Meneses** |  / | [@AndreaMeneses13](https://github.com/AndreaMeneses13) |
 | **Juan Ariel Alarcón** | /  | [@JuanAG1003](https://github.com/JuanAG1003) |
 
 
